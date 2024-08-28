@@ -1,5 +1,3 @@
-
-
 # EMA
 
 ## Introduction
