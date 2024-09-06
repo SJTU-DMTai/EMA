@@ -1,7 +1,7 @@
 # EMA
 
 ## Introduction
-this is the official implementaion of EMA framework for the TKDE paper "A Framework for Elastic Adaptation of User Multiple Intents in Sequential Recommendation". The IMA version can be found in cloudcatcher/IMSR.
+This is the official implementaion of EMA framework for the TKDE paper "A Framework for Elastic Adaptation of User Multiple Intents in Sequential Recommendation". The IMA version can be found in cloudcatcher/IMSR.
 
 
 ## Abstract
